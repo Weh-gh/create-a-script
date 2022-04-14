@@ -6,7 +6,7 @@ print("""
 
 """.replace('/', '\\'))
 
-print("Welcome to the Weh")
+print("Welcome to the https://github.com/weh-gh/script-pl")
 
 process = input('Process select (Create - 1, Run - 0)')
 if process == '1':
